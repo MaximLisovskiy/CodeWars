@@ -12,4 +12,5 @@ def calculate_tip(amount, rating):
         return math.ceil((amount * 20) / 100)
     else:
         return "Rating not recognised"
+    print("hello world")
 print(calculate_tip(107.65, "GReat")) #-> 2
