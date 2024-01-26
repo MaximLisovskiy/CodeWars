@@ -5,4 +5,5 @@ def divisible_by(numbers, divisor):
             result.append(num)
     return result
 
-print(divisible_by([0,1,2,3,4,5,6], 4))
+
+print(divisible_by([0, 1, 2, 3, 4, 5, 6], 4))
