@@ -1,5 +1,4 @@
 import math
-import time
 
 
 def calculate_tip(amount, rating):
